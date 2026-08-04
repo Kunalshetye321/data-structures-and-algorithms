@@ -1,4 +1,4 @@
-## Second Largest Element [Link](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
+## Largest Element [Link](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
 
 ## Brute Force Approach
 ![Brute Force Approach](/Array/Day1/P1_LargestElementInArray/brute-force-approach.jpg)
